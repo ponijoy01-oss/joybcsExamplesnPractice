@@ -1,4 +1,7 @@
-/* On top of the basic mathematical operations, there are more in the form of functions. */
+/*Description:On top of the basic mathematical operations, there are more in the form of functions.
+Author:Joy
+Version:BMO29
+*/
 
 public class L01_ex06 
 { 
@@ -15,4 +18,5 @@ System.out.println(powerValue);
 Double rootValue = Math.sqrt(9);  
 System.out.println(rootValue);      
 } 
+
 }
