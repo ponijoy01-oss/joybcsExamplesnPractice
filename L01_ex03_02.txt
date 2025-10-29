@@ -1,0 +1,10 @@
+ /*Adding values to the variable, after creating it.(method 1)*/
+
+public class L01_ex03_02 
+{ 
+   public static void main (String[] args) 
+   { 
+      int myNumber; 
+      myNumber = 100; 
+   } 
+} 
