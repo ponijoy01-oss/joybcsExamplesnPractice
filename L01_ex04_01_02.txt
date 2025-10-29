@@ -1,0 +1,12 @@
+/*if you use int to perform the exact same operation (L01_ex04_01_01), you will not get an undesirable result*/
+ 
+public class L01_ex04_01_02 
+{ 
+   public static void main (String[] args) 
+   {   
+      int num1 = 5; 
+      int num2 = 2; 
+ 
+      System.out.println(num1 / num2); 
+   } 
+} 
