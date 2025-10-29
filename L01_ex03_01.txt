@@ -1,4 +1,7 @@
-/*The following code creates a variable that stores integers (numbers).*/
+/*Description:Creating a variable that stores integers.
+Author:Poni Joy
+Version:CVI29
+*/
  
 public class L01_ex03_01 
 { 
@@ -6,4 +9,5 @@ public class L01_ex03_01
    { 
       int myNumber; 
    } 
+
 }
