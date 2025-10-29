@@ -1,0 +1,12 @@
+
+/* With char, we can store a single character. */
+
+public class L01_ex04_01_03 
+{ 
+   public static void main (String[] args) 
+   {   
+      char initial = 'k'; 
+       
+      System.out.println( initial ); 
+   } 
+}
