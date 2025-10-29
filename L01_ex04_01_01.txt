@@ -1,0 +1,12 @@
+/* With double, we can perform operations with decimal numbers. */
+
+public class L01_ex04_01_01 
+{ 
+   public static void main (String[] args) 
+   {   
+      double num1 = 5; 
+      double num2 = 2; 
+       
+      System.out.println(num1 / num2); 
+   } 
+} 
