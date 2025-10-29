@@ -1,0 +1,13 @@
+/* Java allows you to combine assignment and addition operators using shorthand operators. */
+
+public class L01_ex05_02 
+{ 
+   public static void main (String[] args) 
+   { 
+      int age = 18; 
+      age += 10;  
+ 
+      System.out.println("In 10 years you will be”); 
+      System.out.println(age); 
+   } 
+}
