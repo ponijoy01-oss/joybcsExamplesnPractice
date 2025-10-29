@@ -1,0 +1,10 @@
+/* If you accidently put double-quotes around the equation, it will print the equation, instead of performing the 
+calculation because Java will treat it like text. */
+
+public class L01_ex02_02 
+{ 
+public static void main (String[] args) 
+{ 
+System.out.println(“5 + 10”); 
+} 
+}
