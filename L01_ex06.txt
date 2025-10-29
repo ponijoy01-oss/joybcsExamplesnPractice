@@ -1,0 +1,18 @@
+/* On top of the basic mathematical operations, there are more in the form of functions. */
+
+public class L01_ex06 
+{ 
+public static void main (String[] args) 
+{  
+int absValue = Math.abs(-15); 
+System.out.println(absValue); 
+double logValue = Math.log10(20); 
+System.out.println(logValue); 
+int maxValue = Math.max(25, 30); 
+System.out.println(maxValue); 
+double powerValue = Math.pow(2, 5); 
+System.out.println(powerValue); 
+Double rootValue = Math.sqrt(9);  
+System.out.println(rootValue);      
+} 
+}
