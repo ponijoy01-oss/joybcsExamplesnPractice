@@ -1,0 +1,10 @@
+/*Assign a value to a variable right after it’s being declared. Then the value in the variable will be displayed. */
+
+public class L01_ex03_04 
+{ 
+   public static void main (String[] args) 
+   { 
+      int myNumber = 100; 
+      System.out.println(myNumber); 
+   } 
+} 
