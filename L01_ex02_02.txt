@@ -2,7 +2,6 @@
 Author:Poni Joy
 Version:ADQ29
 /*
-
 public class L01_ex02_02 
 { 
 public static void main (String[] args) 
@@ -11,3 +10,4 @@ System.out.println("5 + 10");
 } 
 
 }
+
