@@ -1,4 +1,7 @@
- /*Adding values to the variable, after creating it.(method 1)*/
+/*Description:Adding values to the variable, after creating it.
+Author:Poni Joy
+Version:AV29
+*/
 
 public class L01_ex03_02 
 { 
@@ -7,4 +10,5 @@ public class L01_ex03_02
       int myNumber; 
       myNumber = 100; 
    } 
+
 } 
