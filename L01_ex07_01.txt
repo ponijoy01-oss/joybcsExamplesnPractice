@@ -1,5 +1,8 @@
-/*Once you import java.util.Scanner, then you may create the Scanner type “variable” that allows you to 
-get user’s input. */
+/*Description:Once you import java.util.Scanner, then you may create the Scanner type “variable” that allows you to 
+get user’s input.
+Author:Joy
+Version: IJCV29
+*/
 
 import java.util.Scanner; 
  
@@ -15,4 +18,5 @@ public class L01_ex07_01
  
       System.out.println(userAge); 
    } 
+
 }
