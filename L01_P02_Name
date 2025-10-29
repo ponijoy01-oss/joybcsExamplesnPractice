@@ -1,0 +1,7 @@
+public class L01_P02_Name 
+{ 
+public static void main (String[] args) 
+{ 
+System.out.println("Joy"); 
+} 
+}
