@@ -4,6 +4,6 @@ public static void main (String[] args)
 {
     int height = 3;
     int width = 7;
-System.out.println(0.5 * height * width); 
+System.out.println(height * width); 
 } 
 }
