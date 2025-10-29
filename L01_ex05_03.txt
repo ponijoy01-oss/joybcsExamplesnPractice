@@ -1,0 +1,14 @@
+ 
+/* To increment or decrement an int variable by one, you may use:"++" or "--" */
+
+public class L01_ex05_03 
+{ 
+   public static void main (String[] args) 
+   { 
+      int age = 18; 
+      age++ 
+       
+      System.out.println("Next year you will be"); 
+      System.out.println(age); 
+   } 
+}
