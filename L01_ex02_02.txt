@@ -1,10 +1,13 @@
-/* If you accidently put double-quotes around the equation, it will print the equation, instead of performing the 
-calculation because Java will treat it like text. */
+/*Description:Putting double-quotes around equations will print out the equation instead of performing the calculation
+Author:Poni Joy
+Version:ADQ29
+/*
 
 public class L01_ex02_02 
 { 
 public static void main (String[] args) 
 { 
-System.out.println(“5 + 10”); 
+System.out.println("5 + 10"); 
 } 
+
 }
