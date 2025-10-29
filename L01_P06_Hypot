@@ -1,0 +1,10 @@
+public class L01_P06_Hypot
+{ 
+public static void main (String[] args) 
+{
+    double adjacent = 5.5;
+    double opposite = 3.25;
+    double hypotenuse = Math.sqrt(adjacent*adjacent + opposite*opposite);
+System.out.println(hypotenuse); 
+} 
+}
