@@ -2,6 +2,8 @@ public class L01_P04_YearBorn
 { 
 public static void main (String[] args) 
 {
-System.out.println(2005); 
+    int currentYear = 2025;
+    int age = 20;
+System.out.println(currentYear - age); 
 } 
 }
