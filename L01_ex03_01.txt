@@ -1,0 +1,9 @@
+/*The following code creates a variable that stores integers (numbers).*/
+ 
+public class L01_ex03_01 
+{ 
+   public static void main (String[] args) 
+   { 
+      int myNumber; 
+   } 
+}
