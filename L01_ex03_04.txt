@@ -1,4 +1,7 @@
-/*Assign a value to a variable right after it’s being declared. Then the value in the variable will be displayed. */
+/*Description:Assigning a value to a variable right after it’s being declared. Then the value in the variable will be displayed.
+Author:Poni Joy
+Version:AVV29
+*/
 
 public class L01_ex03_04 
 { 
@@ -7,4 +10,5 @@ public class L01_ex03_04
       int myNumber = 100; 
       System.out.println(myNumber); 
    } 
+
 } 
