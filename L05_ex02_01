@@ -1,0 +1,17 @@
+import java.util.Scanner; 
+ 
+public class L05_ex02_01 { 
+   public static void main (String[] args) { 
+      Scanner input = new Scanner(System.in); 
+      boolean result; 
+      int number; 
+ 
+      System.out.println("Enter an number greater than 10: "); 
+      number = input.nextInt (); 
+ 
+      result = number > 10; 
+ 
+      System.out.println("Your number is greater than 10: " + result); 
+      input.close(); 
+   } 
+} 
